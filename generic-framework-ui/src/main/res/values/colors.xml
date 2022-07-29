@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#121212</color>
+    <color name="error">#FF0000</color>
+    <color name="info">#0A9AFF</color>
+    <color name="monochromes_monochrome_100">#F3F4F8</color>
+    <color name="monochromes_monochrome_300">#D7D8DB</color>
+    <color name="monochromes_monochrome_500">#9D9EA3</color>
+    <color name="monochromes_monochrome_700">#808285</color>
+    <color name="monochromes_monochrome_900">#45484A</color>
+    <color name="overlay">#000000</color>
+    <color name="pastels_primary">#EDE8DE</color>
+    <color name="pastels_secondary">#DEE7ED</color>
+    <color name="pastels_success">#E0EBE9</color>
+    <color name="primary">#F8C91C</color>
+    <color name="secondary">#0A9AFF</color>
+    <color name="success">#50E3C2</color>
+    <color name="warning">#F86B1C</color>
+    <color name="white">#FFFFFF</color>
+</resources>

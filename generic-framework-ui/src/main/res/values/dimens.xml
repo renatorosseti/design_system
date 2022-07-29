@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="no_border">0dp</dimen>
+    <dimen name="border_1dp">1dp</dimen>
+    <dimen name="border_2dp">2dp</dimen>
+
+    <dimen name="space_4dp">2dp</dimen>
+    <dimen name="space_8dp">8dp</dimen>
+    <dimen name="space_10dp">10dp</dimen>
+    <dimen name="space_12dp">12dp</dimen>
+    <dimen name="space_16dp">16dp</dimen>
+    <dimen name="space_18dp">18dp</dimen>
+    <dimen name="space_24dp">24dp</dimen>
+    <dimen name="space_28dp">28dp</dimen>
+    <dimen name="space_30dp">30dp</dimen>
+    <dimen name="space_64dp">64dp</dimen>
+
+    <dimen name="password_icon_width">70dp</dimen>
+    <dimen name="biometric_bottom_sheet_box">44dp</dimen>
+    <dimen name="biometric_bottom_sheet_height">112dp</dimen>
+</resources>

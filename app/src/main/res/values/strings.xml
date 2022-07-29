@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">GenericFrameworkUI_Android</string>
+
+    <!-- Text Field -->
+    <string name="text_field_label">Label</string>
+    <string name="text_field_prompt">Prompt</string>
+    <string name="text_field_entry">Entry</string>
+    <string name="text_field_password">Password</string>
+    <string name="text_field_error_message">Error message</string>
+    <string name="text_field_error_password">Password must be at least 8 characters.</string>
+    <string name="text_field_error_invalid_credit_card">Invalid credit card number.</string>
+    <string name="text_field_masked_credit_card">"••••••••••••2345"</string>
+
+
+    <!-- Bottom sheet -->
+    <string name="bottom_sheet_face_id_title">Would you like to enable\nFace Authentication?</string>
+    <string name="bottom_sheet_face_id_description">Once you set up Face Authentication, You’ll be able to use it to Log in faster.</string>
+    <string name="bottom_sheet_face_id_button_title">Enable Face Authentication</string>
+    <string name="bottom_sheet_face_id_text_link_title">Do not enable Face Authentication</string>
+    <string name="bottom_sheet_touch_id_title">Would you like to enable\nFingerprint Authentication?</string>
+    <string name="bottom_sheet_touch_id_description">Once you set up Fingerprint Authentication, You’ll be able to use it to Log in faster.</string>
+    <string name="bottom_sheet_touch_id_button_title">Enable Fingerprint Authentication</string>
+    <string name="bottom_sheet_touch_id_text_link_title">Do not enable Fingerprint Authentication</string>
+
+    <string name="bottom_sheet_face_id_failed_title">Face Authentication\ncould not be enabled.</string>
+    <string name="bottom_sheet_face_id_failed_description">To set up Face Authentication you must  enable it within your device’s app settings.</string>
+    <string name="bottom_sheet_face_id_failed_button_title">Go to settings</string>
+    <string name="bottom_sheet_face_id_failed_text_link_title">Do not enable Face Authentication</string>
+    <string name="bottom_sheet_touch_id_failed_title">Would you like to enable\nFingerprint Authentication?</string>
+    <string name="bottom_sheet_touch_id_failed_description">Once you set up Fingerprint Authentication, You’ll be able to use it to Log in faster.</string>
+    <string name="bottom_sheet_touch_id_failed_button_title">Enable Fingerprint Authentication</string>
+    <string name="bottom_sheet_touch_id_failed_text_link_title">Do not enable Fingerprint Authentication</string>
+
+    <!-- Content Description  -->
+    <string name="content_description_face_authentication">Face Authentication</string>
+    <string name="content_description_fingerprint_authentication">Fingerprint Authentication</string>
+    <string name="content_description_show_password">Show password</string>
+    <string name="content_description_hide_password">Hide password</string>
+    <string name="content_description_camera">Camera</string>
+    <string name="content_description_credit_card">Credit Card</string>
+</resources>

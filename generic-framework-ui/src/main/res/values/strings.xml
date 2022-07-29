@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--    Text field labels -->
+    <string name="textfield_password_label">Password</string>
+    <string name="textfield_password_hint">Enter password</string>
+    <string name="textfield_password_show">Show</string>
+    <string name="textfield_credit_card_label">Credit card number</string>
+    <string name="textfield_credit_card_hint">Enter credit card number</string>
+</resources>

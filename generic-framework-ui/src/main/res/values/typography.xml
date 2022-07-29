@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="heading4Bold">
+        <item name="android:fontFamily">@font/google_sans_bold</item>
+        <item name="android:textSize">20.0sp</item>
+        <item name="android:letterSpacing">0.00</item>
+    </style>
+    <style name="heading4Italic">
+        <item name="android:fontFamily">@font/google_sans_italic</item>
+        <item name="android:textSize">20.0sp</item>
+        <item name="android:letterSpacing">0.00</item>
+    </style>
+    <style name="heading4Regular">
+        <item name="android:fontFamily">@font/google_sans_medium</item>
+        <item name="android:textSize">20.0sp</item>
+        <item name="android:letterSpacing">0.00</item>
+    </style>
+    <style name="heading5Bold">
+        <item name="android:fontFamily">@font/google_sans_bold</item>
+        <item name="android:textSize">18.0sp</item>
+        <item name="android:letterSpacing">0.00</item>
+    </style>
+    <style name="heading5Italic">
+        <item name="android:fontFamily">@font/google_sans_italic</item>
+        <item name="android:textSize">18.0sp</item>
+        <item name="android:letterSpacing">0.00</item>
+    </style>
+    <style name="heading5Regular">
+        <item name="android:fontFamily">@font/google_sans_medium</item>
+        <item name="android:textSize">18.0sp</item>
+        <item name="android:letterSpacing">0.00</item>
+    </style>
+    <style name="heading6Bold">
+        <item name="android:fontFamily">@font/google_sans_bold</item>
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:letterSpacing">0.00</item>
+    </style>
+    <style name="heading6Italic">
+        <item name="android:fontFamily">@font/google_sans_italic</item>
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:letterSpacing">0.00</item>
+    </style>
+    <style name="heading6Regular">
+        <item name="android:fontFamily">@font/google_sans_medium</item>
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:letterSpacing">0.00</item>
+    </style>
+    <style name="body1Bold">
+        <item name="android:fontFamily">@font/google_sans_bold</item>
+        <item name="android:textSize">18.0sp</item>
+        <item name="android:letterSpacing">0.00</item>
+    </style>
+    <style name="body1Italic">
+        <item name="android:fontFamily">@font/google_sans_italic</item>
+        <item name="android:textSize">18.0sp</item>
+        <item name="android:letterSpacing">0.00</item>
+    </style>
+    <style name="body1Regular">
+        <item name="android:fontFamily">@font/google_sans_medium</item>
+        <item name="android:textSize">18.0sp</item>
+        <item name="android:letterSpacing">0.00</item>
+    </style>
+    <style name="body1UppercaseBold">
+        <item name="android:fontFamily">@font/google_sans_bold</item>
+        <item name="android:textSize">18.0sp</item>
+        <item name="android:letterSpacing">0.05</item>
+    </style>
+    <style name="body2Bold">
+        <item name="android:fontFamily">@font/google_sans_bold</item>
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:letterSpacing">0.00</item>
+    </style>
+    <style name="body2Italic">
+        <item name="android:fontFamily">@font/google_sans_italic</item>
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:letterSpacing">0.00</item>
+    </style>
+    <style name="body2Regular">
+        <item name="android:fontFamily">@font/google_sans_medium</item>
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:letterSpacing">0.00</item>
+    </style>
+    <style name="body2UppercaseBold">
+        <item name="android:fontFamily">@font/google_sans_bold</item>
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:letterSpacing">0.05</item>
+    </style>
+    <style name="body3Bold">
+        <item name="android:fontFamily">@font/google_sans_bold</item>
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:letterSpacing">0.00</item>
+    </style>
+    <style name="body3Italic">
+        <item name="android:fontFamily">@font/google_sans_italic</item>
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:letterSpacing">0.00</item>
+    </style>
+    <style name="body3Regular">
+        <item name="android:fontFamily">@font/google_sans_medium</item>
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:letterSpacing">0.00</item>
+    </style>
+    <style name="body3UppercaseBold">
+        <item name="android:fontFamily">@font/google_sans_bold</item>
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:letterSpacing">0.05</item>
+    </style>
+    <style name="body4Bold">
+        <item name="android:fontFamily">@font/google_sans_bold</item>
+        <item name="android:textSize">12.0sp</item>
+        <item name="android:letterSpacing">0.00</item>
+    </style>
+    <style name="body4Italic">
+        <item name="android:fontFamily">@font/google_sans_italic</item>
+        <item name="android:textSize">12.0sp</item>
+        <item name="android:letterSpacing">0.00</item>
+    </style>
+    <style name="body4Regular">
+        <item name="android:fontFamily">@font/google_sans_medium</item>
+        <item name="android:textSize">12.0sp</item>
+        <item name="android:letterSpacing">0.00</item>
+    </style>
+    <style name="body4Uppercase">
+        <item name="android:fontFamily">@font/google_sans_medium</item>
+        <item name="android:textSize">12.0sp</item>
+        <item name="android:letterSpacing">0.10</item>
+    </style>
+    <style name="body4UppercaseBold">
+        <item name="android:fontFamily">@font/google_sans_bold</item>
+        <item name="android:textSize">12.0sp</item>
+        <item name="android:letterSpacing">0.10</item>
+    </style>
+    <style name="ctaButton">
+        <item name="android:fontFamily">@font/google_sans_bold</item>
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:letterSpacing">0.00</item>
+    </style>
+    <style name="captionRegular">
+        <item name="android:fontFamily">@font/google_sans_medium</item>
+        <item name="android:textSize">10.0sp</item>
+        <item name="android:letterSpacing">0.00</item>
+    </style>
+    <style name="captionUppercaseBold">
+        <item name="android:fontFamily">@font/google_sans_bold</item>
+        <item name="android:textSize">10.0sp</item>
+        <item name="android:letterSpacing">0.10</item>
+    </style>
+</resources>
